@@ -1,0 +1,13 @@
+C:\Users\bbarz\Desktop\практика заметки\server\server\bin\Debug\netcoreapp3.1\server.exe
+C:\Users\bbarz\Desktop\практика заметки\server\server\bin\Debug\netcoreapp3.1\server.deps.json
+C:\Users\bbarz\Desktop\практика заметки\server\server\bin\Debug\netcoreapp3.1\server.runtimeconfig.json
+C:\Users\bbarz\Desktop\практика заметки\server\server\bin\Debug\netcoreapp3.1\server.runtimeconfig.dev.json
+C:\Users\bbarz\Desktop\практика заметки\server\server\bin\Debug\netcoreapp3.1\server.dll
+C:\Users\bbarz\Desktop\практика заметки\server\server\bin\Debug\netcoreapp3.1\server.pdb
+C:\Users\bbarz\Desktop\практика заметки\server\server\obj\Debug\netcoreapp3.1\server.csprojAssemblyReference.cache
+C:\Users\bbarz\Desktop\практика заметки\server\server\obj\Debug\netcoreapp3.1\server.AssemblyInfoInputs.cache
+C:\Users\bbarz\Desktop\практика заметки\server\server\obj\Debug\netcoreapp3.1\server.AssemblyInfo.cs
+C:\Users\bbarz\Desktop\практика заметки\server\server\obj\Debug\netcoreapp3.1\server.csproj.CoreCompileInputs.cache
+C:\Users\bbarz\Desktop\практика заметки\server\server\obj\Debug\netcoreapp3.1\server.dll
+C:\Users\bbarz\Desktop\практика заметки\server\server\obj\Debug\netcoreapp3.1\server.pdb
+C:\Users\bbarz\Desktop\практика заметки\server\server\obj\Debug\netcoreapp3.1\server.genruntimeconfig.cache
