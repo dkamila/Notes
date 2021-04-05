@@ -1,0 +1,13 @@
+C:\Users\bbarz\Desktop\практика заметки\client_notes\client_notes\bin\Debug\client_notes.exe.config
+C:\Users\bbarz\Desktop\практика заметки\client_notes\client_notes\bin\Debug\client_notes.exe
+C:\Users\bbarz\Desktop\практика заметки\client_notes\client_notes\bin\Debug\client_notes.pdb
+C:\Users\bbarz\Desktop\практика заметки\client_notes\client_notes\obj\Debug\client_notes.csprojAssemblyReference.cache
+C:\Users\bbarz\Desktop\практика заметки\client_notes\client_notes\obj\Debug\client_notes.Form1.resources
+C:\Users\bbarz\Desktop\практика заметки\client_notes\client_notes\obj\Debug\client_notes.Properties.Resources.resources
+C:\Users\bbarz\Desktop\практика заметки\client_notes\client_notes\obj\Debug\client_notes.csproj.GenerateResource.cache
+C:\Users\bbarz\Desktop\практика заметки\client_notes\client_notes\obj\Debug\client_notes.csproj.CoreCompileInputs.cache
+C:\Users\bbarz\Desktop\практика заметки\client_notes\client_notes\obj\Debug\client_notes.exe
+C:\Users\bbarz\Desktop\практика заметки\client_notes\client_notes\obj\Debug\client_notes.pdb
+C:\Users\bbarz\Desktop\практика заметки\client_notes\client_notes\obj\Debug\client_notes.View.resources
+C:\Users\bbarz\Desktop\практика заметки\client_notes\client_notes\obj\Debug\client_notes.Add_page.resources
+C:\Users\bbarz\Desktop\практика заметки\client_notes\client_notes\obj\Debug\client_notes.Del.resources
